@@ -1,6 +1,7 @@
 {
     "name": "chenbool/etcd-v3",
     "description": "Etcd v3 PHP Client - A comprehensive PHP client for Etcd v3 API",
+    "license": "MIT",
     "require": {
         "php": "^8.1",
         "chenbool/curl": "^1.0"
