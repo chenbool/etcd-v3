@@ -1,0 +1,10 @@
+/vendor/
+/composer.lock
+/index.php
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

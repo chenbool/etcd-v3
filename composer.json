@@ -1,0 +1,13 @@
+{
+    "name": "app/conn",
+    "description": "Service Discovery Client",
+    "require": {
+        "php": "^8.1",
+        "chenbool/curl": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "chenbool\\Etcd\\V3\\": "src/"
+        }
+    }
+}
