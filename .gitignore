@@ -1,6 +1,7 @@
 /vendor/
 /composer.lock
 /index.php
+/server.bat
 *.log
 .DS_Store
 .idea/
